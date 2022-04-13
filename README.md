@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehdijai
-- 👀 I’m interested in JavaScript, VueJS and NodeJS
+- 👀 I’m interested in Laravel, JavaScript, VueJS and NodeJS
 - 🌱 I’m currently learning ElectronJS
 - 💞️ I’m looking to create more awsome stuff with JS
 - 📫 Contact me on: <br />
