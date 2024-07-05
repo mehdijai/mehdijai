@@ -11,13 +11,12 @@
 > **I Learn, create and spread the knowledge**
 
 🔨 Creator of
-- [Autodrive.ma](https://www.autodrive.ma)
-- [Tabarro3.ma](https://www.tabarro3.ma)
+- [Autodrive.ma](https://www.autodrive.ma) **UNAVAILABLE**
+- [Tabarro3.ma](https://www.tabarro3.ma) **UNAVAILABLE**
 
 👨🏽‍💻 My personal website:
-- [MehdiJai.com](https://mehdijai.com)
+- [MehdiJai.com](https://mj-dev.pages.dev/)
 - [Medium](https://medium.com/@mehdi.jai)
 
 📧 Contact me:
-- [Email](mailto:contact@mehdijai.com)
-- [twitter](https://www.twitter.com/jai_mehdi)
+- [Email](mailto:mehdi.jai@proton.me)
