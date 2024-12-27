@@ -1,25 +1,32 @@
-# Mehdi Jai | Lead Fullstack Web developer.
+# 👨‍💻 Welcome, my friend!
 
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="VueJS Framework" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel Framework" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="30" />
-</p>
+_Let me introduce myself 🙋‍♂️_
 
-> **I Learn, create and spread the knowledge**
+I'm Mehdi Jai, a **Full Stack Web Developer** with a passion for creating quality software. I started coding as a hobby at 16, and since then, it's become my craft. Over the last two years, I’ve gained professional experience in startups, working on scalable, secure, and performant applications.  
 
-🔨 Creator of
-- [Autodrive.ma](https://www.autodrive.ma) **UNAVAILABLE**
-- [Tabarro3.ma](https://www.tabarro3.ma) **UNAVAILABLE**
+## 🛠 What I Do  
+- **Backend Development**: Proficient in **TypeScript** and **Node.js**, focusing on secure and scalable APIs with an eye for architecture and engineering.  
+- **Frontend Development**: Building sleek, desktop-first interfaces with modern tools like **VueJS**, **SASS**, **TypeScript**, and sometimes **React/Next.js**.  
+- **DevOps**: Slight experience and a big interest in **Docker**, system architecture, automations and secure deployments.  
+- **Database Management**: Skilled in **PostgreSQL**, **MySQL**, and Node.js ORMs like **TypeORM** and **PrismaJS**.  
 
-👨🏽‍💻 My portfolio:
-- [MehdiJai.com](https://mj-dev.pages.dev/)
+## 🌱 Learning & Goals  
+- Diving deeper into the **Node.js** world to expand my backend expertise.  
+- Exploring new challenges in security and scalability through engineering and system design.  
+- Building stuff from scratch—because why not!
 
-📰 Blogs
-- [Medium](https://medium.com/@mehdi.jai)
+> **I Learn, create, and spread the knowledge**
+
+👨🏽‍💻 **My Portfolio**:  
+- [MJDev v4](https://mjdev.vercel.app)
+
+📰 **Blogs**:  
+- [Medium](https://medium.com/@mehdi.jai)  
 - [Hashnode](https://mehdijai.hashnode.dev)
 
-📧 Contact me:
-- [Email](mailto:mehdi.jai@proton.me)
+## 📬 Let’s Connect!  
+- **LinkedIn**: [Let's Connect](https://linkedin.com/in/mehdijai)  
+- **Email**: [mehdi.jai@proton.me](mailto:mehdi.jai@proton.me)  
+
+Thank you for visiting my profile! Feel free to explore my repositories 😊  
+
