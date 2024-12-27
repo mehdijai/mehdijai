@@ -24,6 +24,11 @@ I'm Mehdi Jai, a **Full Stack Web Developer** with a passion for creating qualit
 - [Medium](https://medium.com/@mehdi.jai)  
 - [Hashnode](https://mehdijai.hashnode.dev)
 
+💼 **Highlighted Repos**:  
+- [Minesweeper.js](https://github.com/mehdijai/minesweeper.js)
+- [DocTime API -- Full blown NodeJS x ExpressJS API](https://github.com/mehdijai/doctime-api)
+- [ADM - Car Rental Laravel SASS](https://github.com/mehdijai/adm)
+
 ## 📬 Let’s Connect!  
 - **LinkedIn**: [Let's Connect](https://linkedin.com/in/mehdijai)  
 - **Email**: [mehdi.jai@proton.me](mailto:mehdi.jai@proton.me)  
