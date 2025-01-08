@@ -18,7 +18,8 @@ I'm Mehdi Jai, a **Full Stack Web Developer** with a passion for creating qualit
 > **I Learn, create, and spread the knowledge**
 
 👨🏽‍💻 **My Portfolio**:  
-- [MJDev v4](https://mjdev.vercel.app)
+- [MJDev v4](https://mehdijai.com)
+- [Blog](https://mehdijai.com/blog)
 
 📰 **Blogs**:  
 - [Medium](https://medium.com/@mehdi.jai)  
